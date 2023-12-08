@@ -20,11 +20,10 @@ A starter code was provided. I worked on this project with the assistant of Samu
 
 ## Link
 
-https://shhutc18.github.io/Module-1-Challenge/
+git@github.com:Rgyarko/SEO-REFACTOR-1.git
 
 ## Screenshot
 
-<img src="./assets/images/shhutc18.DeployedWebpage.jpg">
 
 ## License
 
